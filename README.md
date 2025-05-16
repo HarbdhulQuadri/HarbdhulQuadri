@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I'm a **backend-focused engineer** with a strong foundation in **DevOps and data systems**. I specialize in building scalable, resilient backend architectures and deploying robust infrastructure-as-code across cloud environments.
 
-With deep hands-on experience in **Python, Node.js, CI/CD, and distributed systems**, I craft high-performance APIs, containerized services, and secure data pipelines.
+With deep hands-on experience in **Python, Node.js,C#/.NET Core, CI/CD, and distributed systems**, I craft high-performance APIs, containerized services, and secure data pipelines.
 
 ---
 
