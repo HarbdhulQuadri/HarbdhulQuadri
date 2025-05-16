@@ -33,7 +33,7 @@ With deep hands-on experience in **Python, Node.js,C#/.NET Core, CI/CD, and dist
 |------|-------|
 | **Languages** | Python, JavaScript, TypeScript, SQL, Bash |
 | **Backend** | FastAPI, Flask, Django, Laravel, Node.js, Express.js |
-| **Cloud/DevOps** | AWS, GCP, Docker, Terraform, GitHub Actions, Nginx |
+| **Cloud/DevOps** | AWS, GCP, Docker, Terraform, GitHub Actions, Nginx,C#/.NET Core, |
 | **Databases** | PostgreSQL, MongoDB, MySQL, Redis |
 | **Data & Pipeline Tools** | Pandas, Airflow, Spark, Kafka, Prefect |
 | **Monitoring/Logging** | Prometheus, Grafana, ELK Stack |
