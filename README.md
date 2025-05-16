@@ -1,73 +1,76 @@
-# 👋 Hi, I'm Adegbiji Abdulquadri Olanrewaju
+# 👋 Hi, I’m Adegbiji Abdulquadri Olanrewaju  
+### 🚀 Backend Engineer | DevOps Specialist | Cloud-Native Builder
 
-### 🚀 Backend Engineer | DevOps Specialist | Cloud-Native Builder | Data Systems Architect
+**I help fintechs and data-heavy startups deploy fault-tolerant, scalable backends and pipelines.**
 
-Welcome to my GitHub! I'm a **backend-focused engineer** with a strong foundation in **DevOps and data systems**. I specialize in building scalable, resilient backend architectures and deploying robust infrastructure-as-code across cloud environments.
+---
 
-With deep hands-on experience in **Python, Node.js, CI/CD, and distributed systems**, I craft high-performance APIs, containerized services, and secure data pipelines.
+## 📌 TL;DR
+- **Role:** Backend & DevOps  
+- **Stacks:** Python, Node.js, Docker, Terraform, AWS  
+- **Skills:** Microservices, CI/CD, Kafka/Spark ETL, Real-time Analytics  
+- **Current Focus:** Bitcoin multisig vaults, real-time dashboards, IaC tooling  
 
 ---
 
 ## 💼 What I Do
 
-### 🔹 **Backend Engineering**
-- Design and implement **RESTful and event-driven APIs** using **Node.js**, **Laravel**, and **Python frameworks** (FastAPI, Flask, Django)
-- Build **modular, testable microservices** integrated with SQL/NoSQL databases
-- Create backend logic for **fintech systems**, **multisig coordination**, and real-time analytics
+### 🔹 Backend & API Engineering
+- Design RESTful & event-driven APIs with FastAPI, Flask, Django, Express  
+- Architect modular microservices backed by PostgreSQL, MongoDB, Redis  
+- Build fintech-grade features: multisig coordination, payment workflows  
 
-### 🔹 **DevOps & Cloud Infrastructure**
-- Automate deployments using **Docker**, **GitHub Actions**, **Terraform**, and **CI/CD pipelines**
-- Manage scalable services on **AWS** (EC2, S3, RDS, Lambda), **GCP**, and **Linux servers**
-- Set up monitoring, alerting, and logging systems for high observability
+### 🔹 DevOps & Cloud Infrastructure
+- Automate IaC with Terraform, GitHub Actions, Docker Compose  
+- Manage AWS (EC2, S3, RDS, Lambda) & GCP deployments  
+- Integrate monitoring & alerting (Prometheus, Grafana, ELK)  
 
-### 🔹 **Data Engineering**
-- Build and orchestrate **ETL/ELT pipelines** with **Airflow**, **Kafka**, and **Spark**
-- Transform, load, and manage multi-terabyte datasets for real-time and batch workflows
-- Automate ingestion from APIs, databases, and streaming sources into data lakes or warehouses
+### 🔹 Data Systems & Pipelines
+- Orchestrate ETL jobs using Airflow, Kafka, Spark  
+- Handle multi-TB datasets in real-time and batch  
+- Automate data ingestion into lakes and warehouses  
+
+---
+
+## 🔥 Current Projects
+1. **Bitcoin Multisig Vault**  
+   Building a secure, audit-ready vault for digital lending  
+2. **Real-Time Dashboards**  
+   Streaming performance & blockchain logs into live Grafana panels  
+3. **Cloud CLI Toolkit**  
+   Python CLI for managing deployments with reusable IaC modules  
 
 ---
 
 ## 🧠 Core Skills & Tools
 
-| Area | Tools |
-|------|-------|
-| **Languages** | Python, JavaScript, TypeScript, SQL, Bash |
-| **Backend** | FastAPI, Flask, Django, Laravel, Node.js, Express.js |
-| **Cloud/DevOps** | AWS, GCP, Docker, Terraform, GitHub Actions, Nginx |
-| **Databases** | PostgreSQL, MongoDB, MySQL, Redis |
-| **Data & Pipeline Tools** | Pandas, Airflow, Spark, Kafka, Prefect |
-| **Monitoring/Logging** | Prometheus, Grafana, ELK Stack |
+| Category      | Tools & Frameworks                               |
+|---------------|--------------------------------------------------|
+| **Languages** | Python, JavaScript/TypeScript, SQL, Bash         |
+| **Backends**  | FastAPI, Flask, Django, Laravel, Express.js      |
+| **Cloud/CI**  | AWS, GCP, Docker, Terraform, GitHub Actions      |
+| **Databases** | PostgreSQL, MongoDB, MySQL, Redis                |
+| **Data Tech** | Airflow, Kafka, Spark, Prefect, Pandas           |
+| **Observability** | Prometheus, Grafana, ELK Stack               |
 
 ---
 
-## 🔥 Current Projects
+## 🌐 Let’s Connect
+> 🤝 Open an issue or ping me on LinkedIn if you’d like to collaborate!  
 
-- 🏦 Coordinating a **Bitcoin multisig vault system** for digital lending
-- 📊 Implementing **real-time dashboards** with backend performance metrics & blockchain logs
-- ⚙️ Developing **Python CLI tools** for managing cloud-native workflows
-- 📦 Deploying containerized services using **IaC & GitHub Actions**
+[![LinkedIn][linkedin-badge]][linkedin]  
+[![Email][email-badge]][email]
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harbdhulquadri&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harbdhulquadri&layout=compact&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harbdhulquadri&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harbdhulquadri&layout=compact&theme=radical" width="48%" />
 </div>
 
----
-
-## 🌐 Let’s Connect
-
-<a href="https://www.linkedin.com/in/adegbiji" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:adegbijiquadri@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
----
-
-Let’s build secure, scalable systems—one container and deployment at a time.
+[linkedin]: https://www.linkedin.com/in/adegbiji  
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white  
+[email]: mailto:adegbijiquadri@gmail.com  
+[email-badge]: https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white  
