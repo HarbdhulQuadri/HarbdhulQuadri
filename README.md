@@ -1,46 +1,73 @@
 # 👋 Hi, I'm Adegbiji Abdulquadri Olanrewaju
 
-### 🚀 Consultant Fullstack Engineer | DevOps Specialist | Data & Cloud Systems Architect
+### 🚀 Backend Engineer | DevOps Specialist | Cloud-Native Builder | Data Systems Architect
 
-Welcome to my GitHub! I’m a **consulting-minded fullstack/backend engineer** with deep expertise in **DevOps automation**, **cloud infrastructure**, and **data systems**. I specialize in building resilient microservices, scalable APIs, and secure data platforms — with a passion for crafting solutions that solve real-world problems across fintech, infrastructure, and analytics.
+Welcome to my GitHub! I'm a **backend-focused engineer** with a strong foundation in **DevOps and data systems**. I specialize in building scalable, resilient backend architectures and deploying robust infrastructure-as-code across cloud environments.
+
+With deep hands-on experience in **Python, Node.js,C#/.NET Core, CI/CD, and distributed systems**, I craft high-performance APIs, containerized services, and secure data pipelines.
 
 ---
 
 ## 💼 What I Do
 
-### 🔧 **Fullstack & Backend Engineering**
-- Design and implement **RESTful and event-driven APIs** using **Node.js**, **Laravel**, **.NET Core**, and **Python frameworks** (FastAPI, Flask, Django)
-- Build **modular microservices** backed by SQL/NoSQL databases
-- Architect fullstack systems for **fintech**, **digital lending**, **multisig wallets**, and **real-time analytics**
+### 🔹 **Backend Engineering**
+- Design and implement **RESTful and event-driven APIs** using **Node.js**, **Laravel**, and **Python frameworks** (FastAPI, Flask, Django)
+- Build **modular, testable microservices** integrated with SQL/NoSQL databases
+- Create backend logic for **fintech systems**, **multisig coordination**, and real-time analytics
 
-### ⚙️ **DevOps & Cloud Infrastructure**
-- Automate deployments with **Docker**, **Terraform**, **GitHub Actions**, and IaC best practices
-- Deploy and scale cloud-native apps on **AWS**, **GCP**, and **Linux VPS**
-- Implement CI/CD pipelines, monitoring, logging, and secure networking (RBAC, encryption)
+### 🔹 **DevOps & Cloud Infrastructure**
+- Automate deployments using **Docker**, **GitHub Actions**, **Terraform**, and **CI/CD pipelines**
+- Manage scalable services on **AWS** (EC2, S3, RDS, Lambda), **GCP**, and **Linux servers**
+- Set up monitoring, alerting, and logging systems for high observability
 
-### 📊 **Data Engineering & Analytics**
-- Orchestrate **ETL/ELT workflows** using **Airflow**, **Kafka**, **Spark**, and **dbt**
-- Build data pipelines that move terabytes of structured & streaming data into lakes and warehouses
-- Optimize SQL models, data cleaning, and transformation logic for analytics teams
+### 🔹 **Data Engineering**
+- Build and orchestrate **ETL/ELT pipelines** with **Airflow**, **Kafka**, and **Spark**
+- Transform, load, and manage multi-terabyte datasets for real-time and batch workflows
+- Automate ingestion from APIs, databases, and streaming sources into data lakes or warehouses
 
 ---
 
 ## 🧠 Core Skills & Tools
 
-| Domain | Tools & Technologies |
-|--------|----------------------|
-| **Languages** | Python, JavaScript, TypeScript, C#/.NET Core, SQL, Bash |
-| **Backend Frameworks** | FastAPI, Flask, Django, Laravel, Node.js, Express.js |
-| **Frontend (basic)** | HTML, Tailwind, Alpine.js, Livewire |
-| **Cloud/DevOps** | AWS, GCP, Docker, Terraform, GitHub Actions, Nginx |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
-| **Data Tooling** | Apache Airflow, Spark, Kafka, Pandas, dbt, Prefect |
+| Area | Tools |
+|------|-------|
+| **Languages** | Python, JavaScript, TypeScript,C#/. SQL, Bash |
+| **Backend** | FastAPI, Flask, Django, Laravel, Node.js, Express.js,NET Core, |
+| **Cloud/DevOps** | AWS, GCP, Docker, Terraform, GitHub Actions, Nginx, C#/.NET Core, |
+| **Databases** | PostgreSQL, MongoDB, MySQL, Redis |
+| **Data & Pipeline Tools** | Pandas, Airflow, Spark, Kafka, Prefect |
 | **Monitoring/Logging** | Prometheus, Grafana, ELK Stack |
 
 ---
 
 ## 🔥 Current Projects
 
-- 🏦 Coordinating a **Bitcoin multisig vault system** with backend APIs for secure lending
-- 🛠️ Building **CLI tools** for managing cloud-native infra (Terraform + Python)
-- 📊 Creating **real-time performance dashboards** with blockch
+- 🏦 Coordinating a **Bitcoin multisig vault system** for digital lending
+- 📊 Implementing **real-time dashboards** with backend performance metrics & blockchain logs
+- ⚙️ Developing **Python CLI tools** for managing cloud-native workflows
+- 📦 Deploying containerized services using **IaC & GitHub Actions**
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harbdhulquadri&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harbdhulquadri&layout=compact&theme=radical" width="49%" />
+</div>
+
+---
+
+## 🌐 Let’s Connect
+
+<a href="https://www.linkedin.com/in/adegbiji" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:adegbijiquadri@gmail.com">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+---
+
+Let’s build secure, scalable systems—one container and deployment at a time.
